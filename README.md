@@ -1,4 +1,4 @@
-#README CN335#
+##README CN335##
 *ของ นางสาวณิชชารีย์ คัคนางค์จนันท์ 6210612617*
 
 1. CLIP2 <https://youtu.be/CQWO49o_a-4>
@@ -13,4 +13,6 @@
 
 6. CLIP7 <https://youtu.be/a5rfkaYUcdE>
 
+
+7. PROJECT CLIP <https://youtu.be/rzxn1xFJuLA>
 
